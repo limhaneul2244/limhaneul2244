@@ -42,6 +42,7 @@
 
 ### 🍀My Git stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limhaneul2244&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhaneul2244&langs_count=10&layout=compact&theme=dark)](https://github.com/limhaneul2244/github-readme-stats)
   
   ![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
