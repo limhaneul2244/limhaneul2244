@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=000"/>
 <img src="https://img.shields.io/badge/notion-000?style=flat-square&logo=notion&logoColor=fff"/>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=fff"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=fff"/>
 <br/>
 
 <br/>
